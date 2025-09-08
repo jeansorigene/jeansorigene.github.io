@@ -34,6 +34,6 @@ Python & Linux addict | Développeur autodidacte | Toujours curieux.
 
 ---
 
-## 🔗 Mon LinkedIn
+## 🔗 [Mon LinkedIn](https://ca.linkedin.com/in/jeansorigene)
 
 <!-- Ajoute ici ton lien LinkedIn si souhaité --
