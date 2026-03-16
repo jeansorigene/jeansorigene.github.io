@@ -37,27 +37,26 @@ Graduate of Cybersecurity and professional focused on **security automation**, *
 ```text
 CyberOpsX
 │
-├── architecture
-│   ├── soc
-│   ├── ot-purdue
-│   ├── cloud
+├── Architecture
+│   ├── SOC – Security Operations Center monitoring
+│   ├── OT-Purdue – Industrial control zones & segmentation
+│   ├── Cloud – Hybrid cloud integration & secure access
 │
-├── infrastructure
-│   ├── esxi
-│   ├── fortigate
-│   ├── network
+├── Infrastructure
+│   ├── ESXi – Virtualization & lab environment
+│   ├── FortiGate – Firewall & network security
+│   ├── Network – Segmentation & routing for OT/IT convergence
 │
-├── automation
-│   ├── power-automate
-│   ├── telemetry
+├── Automation
+│   ├── Power Automate – Workflow & reporting automation
+│   ├── Telemetry – Industrial device monitoring & data collection
 │
-├── web-platform
-│   ├── wordpress-plugin
-│   ├── graph-oauth
+├── Web Platform
+│   ├── WordPress Plugin – Secure content delivery & management
+│   ├── Graph-OAuth – OAuth2 integration with Microsoft Graph API for secure email
 │
-├── capex-opex
-│
-└── diagrams
+├── CapEx/Opex – Budget & cost management for hybrid deployments
+└── Diagrams – AS-IS / TO-BE architecture maps & security diagrams
 ```
 
 ## Connect with me
