@@ -1,4 +1,4 @@
-# Jean S. Origene — Cybersecurity (Industrial IoT / OT Security) & Security Automation
+# Jean S. Origene — Bs Sc. Cybersecurity (Industrial IoT / OT Security Student) & Security Automation
 
 Cybersecurity student and professional focused on **security automation**, **secure architecture**, and **Industrial IoT (IIoT)/OT security** for critical infrastructures.
 
