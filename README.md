@@ -1,39 +1,55 @@
-# 👋 Hi, I'm @jeansorigene
 
-Étudiant et professionnel en cybersécurité, passionné par l’automatisation, l’intégration de la sécurité et les technologies IoT pour les infrastructures critiques (SCADA/ICS/PLC).  
-Python & Linux addict | Développeur autodidacte | Toujours curieux.
+Cybersecurity student and professional passionate about security automation, secure architecture, and Industrial IoT (IIoT) for critical infrastructures.
 
----
-
-## 🎓 Actuellement en apprentissage
-
-- Protocoles de communication industriels : MQTT, CoAP, AMQP, DNP3, OPC UA  
-- Normes de sécurité : IEC 62443, NIST SP 800-82  
-- Outils de gestion de versions adaptés aux environnements industriels
+Python & Linux enthusiast | Self-taught developer | Lifelong learner
 
 ---
 
-## 💡 Centres d’intérêt
+🎓 Currently studying
 
-- Sécurisation des infrastructures industrielles
-- Gestion des versions pour systèmes SCADA/ICS/PLC
-- Intégration de la cybersécurité dans les environnements OT
+Industrial communication protocols:
+MQTT, CoAP, AMQP, DNP3, OPC UA
 
----
+Security standards:
+IEC 62443  
+NIST SP 800-82
 
-## 🚀 Compétences & projets
-
-- Développement d'un site web hybride multilingue, conçu selon les principes "Security by Design" ([Portfolio CyberOpsX](https://cyberopsx.ca/hub/portfolio/en/))
-- Intégration de OAuth2 pour l’envoi sécurisé de messages depuis WordPress
-- Mise en place du CI/CD automatisé avec GitHub Actions pour des déploiements sécurisés
-- Adoption de pratiques DevSecOps dans une infrastructure hybride
-- Développement d’un framework de gestion de versions sécurisé pour systèmes SCADA
-- Analyse des vulnérabilités sur des systèmes legacy de contrôle industriel
-- Cartographie de l’état actuel (AS-IS) d’applications MSP et élaboration de recommandations de sécurité pour l’architecture cible (TO-BE)
-- Accompagnement de projets OEM pour l’accès distant sécurisé des systèmes SCADA (plus de 100 sites industriels en Amérique du Nord)
+Version control strategies for industrial environments.
 
 ---
 
-## 🔗 [Mon LinkedIn](https://ca.linkedin.com/in/jeansorigene)
+💡 Areas of Interest
 
-<!-- Ajoute ici ton lien LinkedIn si souhaité --
+Industrial cybersecurity (ICS / SCADA / PLC)
+
+Secure remote access architectures
+
+OT/IT convergence security
+
+Cybersecurity automation and DevSecOps
+
+---
+
+🚀 Projects & Technical Work
+
+CyberOpsX – Hybrid secure web platform built with security-by-design principles.
+
+OAuth2 integration for secure email delivery from WordPress using Microsoft Graph API.
+
+CI/CD automation with GitHub Actions for secure deployment pipelines.
+
+DevSecOps practices applied to hybrid cybersecurity infrastructures.
+
+Research and development of a secure version control framework for industrial control systems.
+
+Security assessment of legacy industrial control systems.
+
+AS-IS / TO-BE architecture mapping for MSP applications with security recommendations.
+
+Support for OEM projects implementing secure remote access to SCADA environments across 100+ industrial sites in North America.
+
+---
+
+🔗 Connect with me
+
+LinkedIn: [your link]
