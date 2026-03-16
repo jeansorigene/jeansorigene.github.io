@@ -52,4 +52,4 @@ Support for OEM projects implementing secure remote access to SCADA environments
 
 🔗 Connect with me
 
-LinkedIn: [your link]
+LinkedIn:  https://ca.linkedin.com/in/jeansorigene
