@@ -34,7 +34,8 @@ Graduate of Cybersecurity and professional focused on **security automation**, *
 ---
 
 ## CyberOpsX engineering platform structure
-```text
+Overview:
+CyberOpsX is a hybrid secure web platform built with security-by-design principles. It integrates industrial cybersecurity best practices, DevSecOps, and OT/IT convergence strategies to provide secure automation, monitoring, and management for critical infrastructures.
 CyberOpsX
 │
 ├── Architecture
