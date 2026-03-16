@@ -1,19 +1,54 @@
-# Table of contents
-- Introduction
-- Areas of interest:
-  - [Cloud security engineer track (AZ-500 / SC-300)](#cloud-security-engineer-track-az-500--sc-300)
-- Other Sections
+# Full Profile Content
 
+## Roles / Certifications
+- Cloud Security Engineer (AZ-500)
+- Security Operations Analyst (SC-300)
 
-## Cloud security engineer track (AZ-500 / SC-300)
-- **Currently preparing:** AZ-500 (Azure Security Engineer Associate), SC-300 (Identity and Access Administrator);
-- **Identity & access:** Entra ID/Azure AD, Conditional Access, MFA, RBAC, PIM;
-- **Cloud security posture:** Defender for Cloud, secure configuration baselines, policy-driven governance;
-- **Monitoring:** Microsoft Sentinel concepts and SOC alignment (hybrid).
+## Table of Contents
+1. Skills & Expertise
+2. Areas of Interest
+3. Cloud Security Engineer Track
+4. Projects & Technical Work
+5. CyberOpsX Engineering Platform Structure
+   - Overview
+   - Platform Structure
+6. Connect With Me
 
-## CyberOpsX engineering platform structure
+## Skills & Expertise
+- Cybersecurity Fundamentals
+- Threat Modeling
+- Incident Response
+- Risk Management
 
-- Other existing content
+## Areas of Interest
+- Cloud Security
+- Cyber Threat Intelligence
 
-## Connect with me
-- Existing contact links
+## Cloud Security Engineer Track
+- AZ-500 Certification
+- SC-300 Certification
+
+## Projects & Technical Work
+- Project A
+- Project B
+
+## CyberOpsX Engineering Platform Structure
+### Overview
+The CyberOpsX platform provides a comprehensive framework for managing cybersecurity operations.
+
+### Platform Structure
+```
+CyberOpsX
+├── Security Operations Center
+│   ├── Incident Response
+│   ├── Threat Intelligence
+├── Cybersecurity Training
+│   ├── Workshops
+│   └── Certifications
+└── Research & Development
+    ├── Emerging Threats
+    └── New Technologies
+```
+
+## Connect With Me
+[LinkedIn](https://www.linkedin.com/in/yourprofile)
