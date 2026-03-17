@@ -131,18 +131,19 @@ CyberOpsX
 
 
 
+
 ## 📬 Get in Touch
 
 <p align="center">
-
   https://ca.linkedin.com/in/jeansorigene
-    https://img.shields.io/badge/LinkedIn-Jean%20Smail%20Origène-blue?style=for-the-badge&logo=linkedin
+    https://img.shields.io/badge/LinkedIn-Jean%20Smail%20Origène-blue?style=for-the-badge&logo=linkedin"
   </a>
 
-  https://img.shields.io/badge/Email-smtp%40cyberopsx.com-red?style=for-the-badge&logo=gmail&logoColor=white
+  https://img.shields.io/badge/Email-smtp%40cyberopsx.com-red?style=for-the-badge&logo=gmail&logoColor=white"
   </a>
 
-  https://img.shields.io/badge/Portfolio-cyberopsx.ca-2b82ff?style=for-the-badge&logo=microsoft-edge&logoColor=white
+  https://cyberopsx.ca"
+    https://img.shields.io/badge/Portfolio-cyberopsx.ca-2b82ff?style=for-the-badge&logo=microsoft-edge&logoColor=white"
   </a>
-
 </p>
+
