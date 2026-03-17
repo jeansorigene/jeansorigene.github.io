@@ -132,15 +132,15 @@ CyberOpsX
 ## 📊 GitHub Analytics & Metrics
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=cyberopsx&show_icons=true&theme=tokyonight
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberopsx&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=cyberopsx&layout=compact&theme=tokyonight
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberopsx&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
-  https://komarev.com/ghpvc/?username=cyberopsx&style=for-the-badge&color=blue
+  <img src="https://komarev.com/ghpvc/?username=cyberopsx&style=for-the-badge&color=blue" alt="Profile views" />
 </p>
 
 ---
@@ -148,6 +148,7 @@ CyberOpsX
 ## 🔗 Connect with Me
 
 <p align="center">
-  https://ca.linkedin.com/in/jeansorigene
-    https://img.shields.io/badge/LinkedIn-Jean%20Smail%20Origène-blue?style=for-the-badge&logo=linkedin
+  <a href="https://ca.linkedin.com/in/jeansorigene" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jean%20Smail%20Origène-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
