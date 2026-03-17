@@ -135,16 +135,14 @@ CyberOpsX
 
 <p align="center">
 
-  <a href="https://ca.linkedin.com/in/jeansorigene" target="_blank">
+  https://ca.linkedin.com/in/jeansorigene
     https://img.shields.io/badge/LinkedIn-Jean%20Smail%20Origène-blue?style=for-the-badge&logo=linkedin
   </a>
 
-  <a href="mailto:smtp@cyberopsx.com">
-    https://img.shields.io/badge/Email-smtp%40cyberopsx.com-red?style=for-the-badge&logo=gmail&logoColor=white
+  https://img.shields.io/badge/Email-smtp%40cyberopsx.com-red?style=for-the-badge&logo=gmail&logoColor=white
   </a>
 
-  <a href="https://cyberopsx.ca" target="_blank">
-    https://img.shields.io/badge/Portfolio-cyberopsx.ca-2b82ff?style=for-the-badge&logo=microsoft-edge&logoColor=white
+  https://img.shields.io/badge/Portfolio-cyberopsx.ca-2b82ff?style=for-the-badge&logo=microsoft-edge&logoColor=white
   </a>
 
 </p>
