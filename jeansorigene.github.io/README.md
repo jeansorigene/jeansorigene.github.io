@@ -2,9 +2,9 @@
 <!-- 🌟 PREMIUM GITHUB PROFILE — JEAN SMAIL ORIGÈNE — CYBEROPSX -->
 <!-- ========================================================= -->
 
-<!-- Banner tag CyberOpsX -->
+<!-- Banner CyberOpsX Neon Tech -->
 <p align="center">
-  <img src="https://img.shields.io/badge/CyberOpsX-Engineering%20Platform-2b82ff?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="assets/header_neon.png" alt="CYBER OPS X Neon Header" width="100%">
 </p>
 
 <h1 align="center">👋 Jean Smail Origène</h1>
