@@ -2,7 +2,6 @@
 <!-- 🌟 PREMIUM GITHUB PROFILE — JEAN SMAIL ORIGÈNE — CYBEROPSX -->
 <!-- ========================================================= -->
 
-
 <h1 align="center" style="
   color:#5ff0ff;
   text-shadow:0 0 20px #5ff0ff, 0 0 40px #5ff0ff;
@@ -14,7 +13,7 @@
 
 <!-- ===== CYBEROPSX NEON BRANDING HEADER ===== -->
 <p align="center">
-  <img src="assets/header_neon.png" width="100%" />
+  assets/header_neon.png
 </p>
 
 <h1 align="center">👋 Jean Smail Origène</h1>
@@ -22,7 +21,7 @@
 
 <!-- ===== SECONDARY SMALLER ANALYST BANNER (OPTIONAL) ===== -->
 <p align="center">
-  <img src="assets/header.png" alt="Cybersecurity Analyst Header" width="85%" />
+  assets/header.png
 </p>
 
 <!-- Badges -->
