@@ -2,9 +2,11 @@
 <!-- 🌟 PREMIUM GITHUB PROFILE — JEAN SMAIL ORIGÈNE — CYBEROPSX -->
 <!-- ========================================================= -->
 
-<!-- Banner CyberOpsX Neon Tech -->
+
+<h1 align="center" style="color:#2b82ff;">CYBER OPS X</h1>
+
 <p align="center">
-  <img src="assets/header_neon.png" alt="CYBER OPS X Neon Header" width="100%">
+  <img src="assets/header_neon.png" width="100%" />
 </p>
 
 <h1 align="center">👋 Jean Smail Origène</h1>
