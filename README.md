@@ -1,9 +1,8 @@
-
 <!-- ========================================================= -->
 <!-- 🌟 PREMIUM GITHUB PROFILE — JEAN SMAIL ORIGÈNE — CYBEROPSX -->
 <!-- ========================================================= -->
 
-<!-- Banner (optionnel : je peux t'en générer une sur mesure) -->
+<!-- Banner tag CyberOpsX -->
 <p align="center">
   <img src="https://img.shields.io/badge/CyberOpsX-Engineering%20Platform-2b82ff?style=for-the-badge&logo=azure-devops&logoColor=white" />
 </p>
@@ -11,6 +10,12 @@
 <h1 align="center">👋 Jean Smail Origène</h1>
 <h3 align="center">Cybersecurity Analyst | IT/OT Convergence | Cloud Security | SOC Monitoring</h3>
 
+<!-- ✅ HEADER VISUEL IA (place file under assets/header.png) -->
+<p align="center">
+  <img src="assets/header.png" alt="Cybersecurity Analyst Header" width="100%" />
+</p>
+
+<!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Security+-ff0000?style=flat-square" />
   <img src="https://img.shields.io/badge/ISC²-CC-2e8b57?style=flat-square" />
@@ -123,9 +128,26 @@ CyberOpsX
 └── Documentation
     ├── CapEx/OpEx – Budget & lifecycle planning
     └── Diagrams – AS-IS / TO-BE architecture maps
+	
+## 📊 GitHub Analytics & Metrics
 
+<p align="center">
+  https://github-readme-stats.vercel.app/api?username=cyberopsx&show_icons=true&theme=tokyonight
+</p>
 
+<p align="center">
+  https://github-readme-stats.vercel.app/api/top-langs/?username=cyberopsx&layout=compact&theme=tokyonight
+</p>
 
-## Connect with me
-- 🔗 Connect with me LinkedIn: https://ca.linkedin.com/in/jeansorigene
+<p align="center">
+  https://komarev.com/ghpvc/?username=cyberopsx&style=for-the-badge&color=blue
+</p>
 
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  https://ca.linkedin.com/in/jeansorigene
+    https://img.shields.io/badge/LinkedIn-Jean%20Smail%20Origène-blue?style=for-the-badge&logo=linkedin
+</p>
