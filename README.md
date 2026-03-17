@@ -13,15 +13,15 @@
 
 <!-- ===== CYBEROPSX NEON BRANDING HEADER ===== -->
 <p align="center">
-  assets/header_neon.png
+  <img src="assets/header_neon.png" width="100%" />
 </p>
 
 <h1 align="center">👋 Jean Smail Origène</h1>
 <h3 align="center">Cybersecurity Analyst | IT/OT Convergence | Cloud Security | SOC Monitoring</h3>
 
-<!-- ===== SECONDARY SMALLER ANALYST BANNER (OPTIONAL) ===== -->
+<!-- ===== SECONDARY SMALLER ANALYST BANNER ===== -->
 <p align="center">
-  assets/header.png
+  <img src="assets/header.png" width="85%" />
 </p>
 
 <!-- Badges -->
