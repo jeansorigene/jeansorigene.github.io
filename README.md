@@ -24,8 +24,6 @@
   <img src="assets/header.png" width="85%" />
 </p>
 
-
-
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Security+-ff0000?style=flat-square" />
@@ -34,8 +32,6 @@
   <img src="https://img.shields.io/badge/Network+-0033cc?style=flat-square" />
   <img src="https://img.shields.io/badge/B.Sc.-Cybersecurity-0d9488?style=flat-square" />
 </p>
-
----
 
 ## 🌐 About Me
 
