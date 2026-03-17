@@ -3,6 +3,15 @@
 <!-- ========================================================= -->
 
 
+<h1 align="center" style="
+  color:#5ff0ff;
+  text-shadow:0 0 20px #5ff0ff, 0 0 40px #5ff0ff;
+  letter-spacing:3px;
+  font-weight:700;
+  font-size:44px;">
+  CYBER OPS X
+</h1>
+
 <!-- ===== CYBEROPSX NEON BRANDING HEADER ===== -->
 <p align="center">
   <img src="assets/header_neon.png" width="100%" />
