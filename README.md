@@ -12,8 +12,8 @@
 </h1>
 
 <!-- ===== CYBEROPSX NEON BRANDING HEADER ===== -->
-<!--<p align="center"><!-->
- <!- assets/header_neon.png<!-->
+<p align="center">
+  assets/header_neon.png
 </p>
 
 <h1 align="center">👋 Jean Smail Origène</h1>
@@ -23,7 +23,6 @@
 <p align="center">
   assets/header.png
 </p>
-
 
 <!-- Badges -->
 <p align="center">
