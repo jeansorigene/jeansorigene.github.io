@@ -3,8 +3,7 @@
 <!-- ========================================================= -->
 
 
-<h1 align="center" style="color:#2b82ff;">CYBER OPS X</h1>
-
+<!-- ===== CYBEROPSX NEON BRANDING HEADER ===== -->
 <p align="center">
   <img src="assets/header_neon.png" width="100%" />
 </p>
@@ -12,9 +11,9 @@
 <h1 align="center">👋 Jean Smail Origène</h1>
 <h3 align="center">Cybersecurity Analyst | IT/OT Convergence | Cloud Security | SOC Monitoring</h3>
 
-<!-- ✅ HEADER VISUEL IA (place file under assets/header.png) -->
+<!-- ===== SECONDARY SMALLER ANALYST BANNER (OPTIONAL) ===== -->
 <p align="center">
-  <img src="assets/header.png" alt="Cybersecurity Analyst Header" width="100%" />
+  <img src="assets/header.png" alt="Cybersecurity Analyst Header" width="85%" />
 </p>
 
 <!-- Badges -->
