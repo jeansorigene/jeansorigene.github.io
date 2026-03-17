@@ -130,6 +130,7 @@ CyberOpsX
     └── Diagrams – AS-IS / TO-BE architecture maps
 	
 
+
 ## 📬 Get in Touch
 
 <p align="center">
@@ -138,7 +139,7 @@ CyberOpsX
     https://img.shields.io/badge/LinkedIn-Jean%20Smail%20Origène-blue?style=for-the-badge&logo=linkedin
   </a>
 
-  <a href="mailto:contact@cyberopsx.ca">
+  <a href="mailto:smtp@cyberopsx.com">
     https://img.shields.io/badge/Email-smtp%40cyberopsx.com-red?style=for-the-badge&logo=gmail&logoColor=white
   </a>
 
