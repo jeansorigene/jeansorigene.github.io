@@ -13,7 +13,7 @@
 
 <!-- ===== CYBEROPSX NEON BRANDING HEADER ===== -->
 <!--<p align="center"><!-->
-  assets/header_neon.png<!-->
+ <!- assets/header_neon.png<!-->
 </p>
 
 <h1 align="center">👋 Jean Smail Origène</h1>
