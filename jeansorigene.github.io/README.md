@@ -129,26 +129,15 @@ CyberOpsX
     ├── CapEx/OpEx – Budget & lifecycle planning
     └── Diagrams – AS-IS / TO-BE architecture maps
 	
-## 📊 GitHub Analytics & Metrics
+
+## 📬 Get in Touch
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberopsx&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberopsx&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cyberopsx&style=for-the-badge&color=blue" alt="Profile views" />
-</p>
-
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://ca.linkedin.com/in/jeansorigene" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jean%20Smail%20Origène-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  https://ca.linkedin.com/in/jeansorigene
+    https://img.shields.io/badge/LinkedIn-Jean%20Smail%20Origène-blue?style=for-the-badge&logo=linkedin
+  </a>
+  https://img.shields.io/badge/Email-smtp%40cyberopsx.com-red?style=for-the-badge&logo=gmail&logoColor=white
+  </a>
+  https://img.shields.io/badge/Portfolio-cyberopsx.ca-2b82ff?style=for-the-badge&logo=microsoft-edge&logoColor=white
   </a>
 </p>
