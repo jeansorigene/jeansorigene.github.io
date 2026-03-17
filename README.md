@@ -13,7 +13,7 @@
 
 <!-- ===== CYBEROPSX NEON BRANDING HEADER ===== -->
 <p align="center">
-  <img src="assets/header_neon.png" width="100%" />
+  assets/header_neon.png
 </p>
 
 <h1 align="center">👋 Jean Smail Origène</h1>
@@ -21,8 +21,9 @@
 
 <!-- ===== SECONDARY SMALLER ANALYST BANNER ===== -->
 <p align="center">
-  <img src="assets/header.png" width="85%" />
+  assets/header.png
 </p>
+
 
 <!-- Badges -->
 <p align="center">
