@@ -113,7 +113,6 @@ A secure-by-design platform combining:
 
 # 🏗️ CyberOpsX Engineering Platform Map
 
-
 CyberOpsX
 │
 ├── Architecture
