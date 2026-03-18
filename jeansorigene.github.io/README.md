@@ -17,7 +17,7 @@
 </p>
 
 <h1 align="center">👋 Jean Smail Origène</h1>
-<h3 align="center">Cybersecurity Analyst | IT/OT Convergence | Cloud Security | SOC Monitoring</h3>
+<h3 align="center">Cybersecurity Analyst | IT/OT Convergence | Cloud Security | SOC Monitoring | BSc Cybersecurity | NSE 3 | CompTIA Security + | CompTia Network +, M365 Fundamentals</h3>
 
 <!-- ===== SECONDARY SMALLER ANALYST BANNER ===== -->
 <p align="center">
