@@ -1,3 +1,4 @@
+
 <!-- ========================================================= -->
 <!-- 🌟 PREMIUM GITHUB PROFILE — JEAN SMAIL ORIGÈNE — CYBER OPS X -->
 <!-- ========================================================= -->
@@ -111,6 +112,7 @@ A secure-by-design platform combining:
 
 > CyberOpsX unifies **OT monitoring**, **cloud identity**, and **secure automation** into a modern, hybrid engineering architecture.
 
+---
 
 # 🏗️ CYBER OPS X Engineering Platform Map
 

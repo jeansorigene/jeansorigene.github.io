@@ -1,5 +1,6 @@
+
 <!-- ========================================================= -->
-<!-- 🌟 PREMIUM GITHUB PROFILE — JEAN SMAIL ORIGÈNE — CYBEROPSX -->
+<!-- 🌟 PREMIUM GITHUB PROFILE — JEAN SMAIL ORIGÈNE — CYBER OPS X -->
 <!-- ========================================================= -->
 
 <h1 align="center" style="
@@ -16,10 +17,14 @@
   <img src="assets/header_neon.png" width="100%" />
 </p>
 
+<!-- Identity -->
 <h1 align="center">👋 Jean Smail Origène</h1>
-<h3 align="center">Cybersecurity Analyst | IT/OT Convergence | Cloud Security | SOC Monitoring | BSc Cybersecurity | NSE 3 | CompTIA Security + | CompTia Network +| M365 Fundamentals</h3>
+<h3 align="center">
+Cybersecurity Analyst • IT/OT Convergence • Cloud Security • SOC Monitoring<br>
+B.Sc. Cybersecurity • NSE 3 • CompTIA Security+ • Network+ • M365 Fundamentals
+</h3>
 
-<!-- ===== SECONDARY SMALLER ANALYST BANNER ===== -->
+<!-- ===== SECONDARY BANNER ===== -->
 <p align="center">
   <img src="assets/header.png" width="85%" />
 </p>
@@ -33,79 +38,79 @@
   <img src="https://img.shields.io/badge/B.Sc.-Cybersecurity-0d9488?style=flat-square" />
 </p>
 
+---
+
 ## 🌐 About Me
 
-I am a **cybersecurity analyst** focusing on:
+I am a **cybersecurity analyst** specializing in:
 
-✅ IT/OT convergence security  
-✅ Cloud identity security (Entra ID / Conditional Access / PIM)  
+✅ IT/OT convergence & industrial security  
+✅ Cloud identity security (Entra ID • CA • MFA • RBAC • PIM)  
 ✅ Hybrid SOC monitoring & telemetry engineering  
-✅ Secure-by-design architecture for modern infrastructures  
+✅ Secure-by-design cloud / on-prem architectures  
 
-I specialize in bridging **cloud, on-prem, and industrial environments**, aligning ICS security foundations (Purdue, ISA‑95, IEC 62443) with **DevSecOps**, automation, and real-world security monitoring.
+I bridge **cloud, on-prem, and industrial environments**, aligning IIoT/ICS security principles (Purdue, ISA‑95, IEC 62443) with **DevSecOps**, automation, and SOC‑level monitoring.
 
-📚 Currently preparing:  
-**AZ‑500** • **SC‑300**
+📚 Currently preparing: **AZ‑500 • SC‑300**
 
 ---
 
 ## 🚀 Skills & Expertise
 
 ### 🔐 Cybersecurity & Cloud Security
-- Entra ID, Conditional Access, MFA, RBAC, PIM  
-- Defender for Cloud • Secure baselines • Azure governance  
+- Entra ID (Azure AD), Conditional Access, MFA, PIM, RBAC  
+- Defender for Cloud • Hardening • Policy-driven governance  
 - Microsoft Sentinel (SIEM/SOC)  
-- Zero Trust for hybrid IT/OT ecosystems  
+- Zero Trust frameworks  
 
 ---
 
-### 🏭 Industrial Cybersecurity (ICS / SCADA)
-- Protocols: **MQTT, OPC UA, DNP3, AMQP, CoAP**  
-- ISA‑95 Purdue Model • IEC 62443 • NIST SP 800‑82  
-- OT segmentation • SCADA secure remote access  
-- Legacy ICS risk assessment  
+### 🏭 Industrial Cybersecurity (ICS/IIoT)
+- Protocols: MQTT, OPC UA, DNP3, AMQP, CoAP  
+- ISA‑95 Purdue • IEC 62443 • NIST SP 800‑82  
+- SCADA secure remote access  
+- ICS/IIoT vulnerability & risk assessments  
 
 ---
 
 ### ⚙️ Infrastructure & Network Security
-- ESXi virtualization • Secure lab architecture  
-- FortiGate (NSE3) — firewalling, segmentation, automation  
-- VLAN/VRF & routing for OT/IT convergence  
+- ESXi virtualization • Hybrid lab engineering  
+- FortiGate (NSE3) • Segmentation & routing  
+- VLAN/VRF • Boundary protections  
 
 ---
 
 ### 🤖 DevSecOps, Automation & Scripting
-- Python (automation + tooling)  
-- Linux (hardening, deployment, troubleshooting)  
+- Python automation  
+- Linux administration & hardening  
 - GitHub Actions (CI/CD pipelines)  
-- Power Automate (SOC reporting pipelines)  
+- Power Automate (SOC reporting & telemetry flows)  
 
 ---
 
 ## 🎯 Areas of Interest
-- OT/IT convergence & industrial cybersecurity  
-- Cloud security engineering  
-- SOC monitoring & log pipelines  
+- IT/OT convergence & IIoT defense  
+- Cloud identity security & automation  
+- SOC monitoring & log analysis  
 - ICS/SCADA architecture hardening  
-- Cybersecurity automation & identity governance  
-- DevSecOps applied to hybrid industrial systems  
+- DevSecOps in hybrid infrastructures  
 
 ---
 
 # 🧪 Projects & Technical Work
 
-## 🔹 CYBER OPS X  | AI‑Driven Hybrid Engineering Security Platform
+## 🔹 CYBER OPS X — AI‑Driven Hybrid Engineering Security Platform
 A secure-by-design platform combining:
 
-- **Hybrid cloud + ESXi on‑prem**  
-- **Segmentation & OT/IT boundary controls (FortiGate)**  
-- **WordPress hardened environment**  
-- **OAuth2 + Microsoft Graph API secure mail pipeline**  
+- **Hybrid cloud + ESXi on-prem**  
+- **OT/IT segmentation (FortiGate)**  
+- **Hardened WordPress stack**  
+- **OAuth2 + Microsoft Graph secure mail pipeline**  
 - **Telemetry ingestion & SOC automation**  
 - **GitHub Actions CI/CD**  
-- **Power Automate workflows for reporting**  
+- **Power Automate workflows**  
 
-> CyberOpsX showcases how modern organizations can unify **OT monitoring**, **cloud identity**, and **secure automation** within a single coherent architecture.
+> CyberOpsX unifies **OT monitoring**, **cloud identity**, and **secure automation** into a modern, hybrid engineering architecture.
 
 ---
 
