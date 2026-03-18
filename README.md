@@ -17,7 +17,7 @@
 </p>
 
 <h1 align="center">👋 Jean Smail Origène</h1>
-<h3 align="center">Cybersecurity Analyst | IT/OT Convergence | Cloud Security | SOC Monitoring | BSc Cybersecurity | NSE 3 | CompTIA Security + | CompTia Network +, M365 Fundamentals</h3>
+<h3 align="center">Cybersecurity Analyst | IT/OT Convergence | Cloud Security | SOC Monitoring | BSc Cybersecurity | NSE 3 | CompTIA Security + | CompTia Network +| M365 Fundamentals</h3>
 
 <!-- ===== SECONDARY SMALLER ANALYST BANNER ===== -->
 <p align="center">
@@ -94,7 +94,7 @@ I specialize in bridging **cloud, on-prem, and industrial environments**, aligni
 
 # 🧪 Projects & Technical Work
 
-## 🔹 CyberOpsX – Hybrid Secure Engineering Platform
+## 🔹 CYBER OPS X  | AI‑Driven Hybrid Engineering Security Platform
 A secure-by-design platform combining:
 
 - **Hybrid cloud + ESXi on‑prem**  
@@ -109,7 +109,7 @@ A secure-by-design platform combining:
 
 ---
 
-# 🏗️ CyberOpsX Engineering Platform Map
+# 🏗️ CYBER OPS X Engineering Platform Map
 
 CyberOpsX
 │
@@ -157,4 +157,3 @@ CyberOpsX
   </a>
 
 </p>
-
